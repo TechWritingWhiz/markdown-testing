@@ -1,3 +1,5 @@
+
+
 # Sovrin Release Notes
 
 
@@ -11,13 +13,13 @@
 
 
 
-* [Aries 1.1.8](#aries-1.1.8)
+* [Aries 1.1.8](#aries-118)
 
-* [Aries 1.1.7](#aries-1.1.7)
+* [Aries 1.1.7](#aries-117)
 
-* [Aries 1.1.6 Hot Fix](#aries-1.1.6-hot-fix)
+* [Aries 1.1.6 Hot Fix](#aries-116-hot-fix)
 
-* [Aries 1.1.6](#aries-1.1.6)
+* [Aries 1.1.6](#aries-116)
 
 * [Aries 1.0](#aries-10)
 
@@ -459,4 +461,3 @@ With the latest builds (which will be on your new stable) you will start to see 
 The time stamp is the entry that shows *1500090332*.
 
 The *1500090332* is the utc epoch and a converter can be found at this site [https://www.epochconverter.com/](https://www.epochconverter.com/) so you can see the human readable version of the time.
-
